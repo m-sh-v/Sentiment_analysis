@@ -15,14 +15,14 @@
 
 
 <h3>= Объём обучающего множества =</h3>
-<p>(dataset_of_medical_comments.xml)</p>
+<p style="color:grey;">(dataset_of_medical_comments.xml)</p>
 
 <p>Общее количество отзывов – 10416. Из них:
   негативных – 5230; позитивных – 5186.</p>
 
 
 <h3>= Объём тестового множества =</h3>
-<p>(test_dataset_of_medical_comments.xml)</p>
+<p style="color:grey;">(test_dataset_of_medical_comments.xml)</p>
 
 <p>Общее количество отзывов – 1363. Из них: 
   негативных – 670; позитивных – 693.</p>
