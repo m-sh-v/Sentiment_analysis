@@ -1,6 +1,6 @@
 <h1 align="center">Medical Service Review Dataset</h1>
 
-<p style="font-size:110%;">This dataset is designed for training and evaluating sentiment analysis and opinion classification algorithms. It can also be useful for other natural language processing (NLP) tasks.</p>
+<em>This dataset is designed for training and evaluating sentiment analysis and opinion classification algorithms. It can also be useful for other natural language processing (NLP) tasks.</em>
 
 <br>
 
