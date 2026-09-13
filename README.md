@@ -35,7 +35,7 @@ This dataset is designed for training and evaluating sentiment analysis and opin
 <h3><b><i>Data Volume</i></b></h3>
 
 ***Training Set***
-*File: dataset_of_medical_comments.xml*
+<br>*File: dataset_of_medical_comments.xml*
 
   - Total reviews: 10,416
   - Negative: 5,230
@@ -43,7 +43,7 @@ This dataset is designed for training and evaluating sentiment analysis and opin
 
 
 ***Test Set***
-*File: test_dataset_of_medical_comments.xml*
+<br>*File: test_dataset_of_medical_comments.xml*
 
   - Total reviews: 1,363
   - Negative: 669
