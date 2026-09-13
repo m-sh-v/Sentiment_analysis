@@ -2,7 +2,10 @@
 
 <p style="font-size:65%;">This dataset is designed for training and evaluating sentiment analysis and opinion classification algorithms. It can also be useful for other natural language processing (NLP) tasks.</p>
 
+<br>
+
 <h3><b><i>General Information</i></b></h3>
+
   - Language of texts: Russian.
   - Data source: open sources.
   - Text feature: the authors' original punctuation is preserved.
@@ -11,6 +14,7 @@
   - Only reviews with ratings of “1” and “5” were selected for inclusion in the dataset.
   - Reviews with a rating of “1” are labeled as negative, and reviews with a rating of “5” are labeled as positive.
 
+<br>
 
 <h3><b><i>Annotation Attributes</i></b></h3>
 
@@ -26,6 +30,7 @@
 | score |	Aggregated sentiment based on pos, neu, and neg |	1 — positive, 0 — neutral, -1 — negative |
 | area |	City where the medical institution is located |	spb — Saint Petersburg, msk — Moscow, ekb — Yekaterinburg, nsk — Novosibirsk |
 
+<br>
 
 <h3><b><i>Data Volume</i></b></h3>
 
@@ -44,6 +49,7 @@
   - Negative: 669
   - Positive: 694
 
+<br>
 
 <h3><b><i>Note</i></b></h3>
 
