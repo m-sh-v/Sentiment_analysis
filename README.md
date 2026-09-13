@@ -20,15 +20,15 @@
 
 | Attribute | Description | Values |
 | :---------: | :------------------------: | :------: |
-| <mark>text</mark> | Comment text	| Text |
-| <mark>doc</mark>	| Review of a doctor |	1 — yes, 0 — no |
-| <mark>service</mark>	| Review of a service	| 1 — yes, 0 — no |
-| <mark>stars</mark>	| Subjective rating given by the comment author	| In this dataset — 1 or 5 |
-| <mark>pos</mark> |	Positive sentiment |	1 — yes, 0 — no |
-| <mark>neu</mark>	| Neutral sentiment |	1 — yes, 0 — no |
-| <mark>neg</mark> |	Negative sentiment |	1 — yes, 0 — no |
-| <mark>score</mark> |	Aggregated sentiment based on pos, neu, and neg |	1 — positive, 0 — neutral, -1 — negative |
-| <mark>area</mark> |	City where the medical institution is located |	spb — Saint Petersburg, msk — Moscow, ekb — Yekaterinburg, nsk — Novosibirsk |
+| text | Comment text	| Text |
+| `doc`	| Review of a doctor |	1 — yes, 0 — no |
+| service	| Review of a service	| 1 — yes, 0 — no |
+| stars	| Subjective rating given by the comment author	| In this dataset — 1 or 5 |
+| pos |	Positive sentiment |	1 — yes, 0 — no |
+| neu	| Neutral sentiment |	1 — yes, 0 — no |
+| neg |	Negative sentiment |	1 — yes, 0 — no |
+| score |	Aggregated sentiment based on pos, neu, and neg |	1 — positive, 0 — neutral, -1 — negative |
+| area |	City where the medical institution is located |	spb — Saint Petersburg, msk — Moscow, ekb — Yekaterinburg, nsk — Novosibirsk |
 
 <br>
 
